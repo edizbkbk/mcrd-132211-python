@@ -9,8 +9,11 @@ math
 
 
 pip install ursina
+
 pip install panda3d
+
 pip install pyinstaller
+
 
 
 
